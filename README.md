@@ -5,8 +5,11 @@
 ##
 
 <h6>
+
 📕 Atuamente estou estudando Java
+
 📘 Futuramente será o estudo em Python
+
 📙 Também estão na lista C#, HTML, CSS e Banco de dados
 </h6>
 
@@ -24,8 +27,8 @@
 
 <div align="center">
   <a href="[https://github.com/DouglasAton](https://github.com/DouglasAton)"> 
-  <img height="48%em" src="https://github-readme-stats.vercel.app/api?username=DouglasAton&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>  
-  <img height="48%em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasAton&layout=compact&langs_count=16&theme=highcontrast"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=DouglasAton&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>  
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasAton&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 
 ##
