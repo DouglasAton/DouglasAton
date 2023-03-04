@@ -1,4 +1,4 @@
-<h4>Olá 👋, eu sou o Douglas Toneto! Bem vindo(a) ao meu perfil GitHub!</h4>
+<h4>Olá 👋, eu sou o Douglas A. Toneto! Bem vindo(a) ao meu perfil GitHub!</h4>
 
 <h5>Estou cursando ADS, finalmente obtive coragem para iniciar. 😁</h5>
 
